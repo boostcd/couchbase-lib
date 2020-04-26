@@ -16,7 +16,7 @@ import org.springframework.test.context.TestContext;
 import com.couchbase.client.java.Bucket;
 import com.couchbase.client.java.Cluster;
 import com.couchbase.client.java.CouchbaseCluster;
-import com.estafet.demo.commons.lib.properties.PropertyUtils;
+import com.estafet.openshift.boost.commons.lib.properties.PropertyUtils;
 import com.estafet.openshift.boost.couchbase.lib.annotation.BucketSetup;
 
 public class CouchbaseTestData {
