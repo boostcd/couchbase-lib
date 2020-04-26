@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.couchbase.lib.testdata;
+package com.estafet.openshift.boost.couchbase.lib.json;
 
 import java.io.IOException;
 import java.io.InputStream;

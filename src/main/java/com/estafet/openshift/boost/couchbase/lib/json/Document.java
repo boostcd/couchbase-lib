@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.couchbase.lib.testdata;
+package com.estafet.openshift.boost.couchbase.lib.json;
 
 import java.lang.reflect.Field;
 
