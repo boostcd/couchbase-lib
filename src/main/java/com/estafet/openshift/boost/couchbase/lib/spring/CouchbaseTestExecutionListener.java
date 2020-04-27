@@ -22,6 +22,7 @@ public class CouchbaseTestExecutionListener extends AbstractTestExecutionListene
 	public void beforeTestMethod(TestContext testContext) throws Exception {
 		CouchbaseBucket couchbaseBucket = testContext.getApplicationContext().getBean(CouchbaseBucketFactoryBean.class).getCouchbaseBucket();
 		Bucket bucket = couchbaseBucket.getBucket();
+		bucket.bucketManager().flush();
 		for (Document document : getDocuments(testContext)) {
 			document.save(bucket);
 		}
