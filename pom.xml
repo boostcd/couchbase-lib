@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.estafet.openshift.boost</groupId>
 	<artifactId>estafet-openshift-boost-couchbase-lib</artifactId>
-	<version>0.0.5</version>
+	<version>0.0.6-SNAPSHOT</version>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -86,7 +86,7 @@
 		<connection>scm:git:https://github.com/Estafet-LTD/estafet-openshift-boost/estafet-openshift-boost-couchbase-lib.git</connection>
 		<developerConnection>scm:git:https://github.com/Estafet-LTD/estafet-openshift-boost/estafet-openshift-boost-couchbase-lib.git</developerConnection>
 		<url>https://github.com/Estafet-LTD/estafet-openshift-boost/estafet-openshift-boost-couchbase-lib</url>
-		<tag>estafet-openshift-boost-couchbase-lib-0.0.5</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<name>Commons Libaries for Estafet Microservices</name>
