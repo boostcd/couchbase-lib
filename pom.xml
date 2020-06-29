@@ -67,7 +67,7 @@
 		<dependency>
 			<groupId>com.estafet.openshift.boost</groupId>
 			<artifactId>estafet-openshift-boost-commons-lib</artifactId>
-			<version>0.0.13</version>
+			<version>0.0.15</version>
 		</dependency>
 	</dependencies>
 	
