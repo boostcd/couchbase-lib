@@ -1,1 +1,1 @@
-# estafet-openshift-boost-couchbase-lib
+# couchbase-lib

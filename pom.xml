@@ -65,10 +65,10 @@
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.estafet.openshift.boost</groupId>
-			<artifactId>estafet-openshift-boost-commons-lib</artifactId>
-			<version>0.0.15</version>
-		</dependency>
+			<groupId>com.estafet.boostcd</groupId>
+			<artifactId>commons-lib</artifactId>
+			<version>0.0.16-SNAPSHOT</version>
+		</dependency>	
 	</dependencies>
 	
 	<distributionManagement>
@@ -92,6 +92,5 @@
 	<name>Commons Libaries for Estafet Microservices</name>
 	<url>https://github.com/boostcd/couchbase-lib</url>
 	<description>This library provides couchbase functionality required for microservices.</description>
-
 
 </project>
