@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.estafet.boostcd</groupId>
 	<artifactId>boostcd-couchbase-lib</artifactId>
-	<version>0.0.6-SNAPSHOT</version>
+	<version>0.0.6</version>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -86,7 +86,7 @@
 		<connection>scm:git:https://github.com/boostcd/couchbase-lib.git</connection>
 		<developerConnection>scm:git:https://github.com/boostcd/couchbase-lib.git</developerConnection>
 		<url>https://github.com/boostcd/couchbase-lib</url>
-		<tag>HEAD</tag>
+		<tag>boostcd-couchbase-lib-0.0.6</tag>
 	</scm>
 
 	<name>Commons Libaries for Estafet Microservices</name>
