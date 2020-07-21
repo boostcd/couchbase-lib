@@ -67,7 +67,7 @@
 		<dependency>
 			<groupId>com.estafet.boostcd</groupId>
 			<artifactId>commons-lib</artifactId>
-			<version>0.0.16-SNAPSHOT</version>
+			<version>0.0.16</version>
 		</dependency>	
 	</dependencies>
 	
